@@ -121,5 +121,7 @@ If you're following the full course, ensure your MySQL setup includes all requir
 
 ## 📧 Contact
 For questions, reach out to:
+
 Name: Ibrahim Ambale
+
 LinkedIn: linkedin.com/in/iambale
