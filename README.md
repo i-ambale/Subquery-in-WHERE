@@ -124,4 +124,4 @@ For questions, reach out to:
 
 Name: Ibrahim Ambale
 
-LinkedIn: [Ibrahim Ambale]([linkedin.com/in/iambale](https://www.linkedin.com/in/ibrahim-ambale/))
+LinkedIn: [Ibrahim Ambale](https://www.linkedin.com/in/ibrahim-ambale/)
